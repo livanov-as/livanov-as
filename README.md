@@ -1,4 +1,4 @@
-![dashboard-banner](https://github.com/livanov-as/al-devstack/blob/main/frontend/src/assets/dashboard-banner.webp?raw=true)
+[![dashboard-banner](https://github.com/livanov-as/al-devstack/blob/main/frontend/src/assets/dashboard-banner.webp?raw=true)](https://al-devstack.vercel.app)
 
 👋 Hello! I transitioned into software engineering from precise geodesy, spatial data verification, and land surveying. I currently build lightweight, high-performance Full-Stack applications, focusing on FinOps container optimization and pipeline automation.
 
@@ -20,7 +20,7 @@
 
 ---
 
-### 📊 Featured Project: [al-devstack](https://github.com/al-devstack)
+### 📊 Featured Project: [al-devstack](https://github.com/livanov-as/al-devstack)
 **Real-time Full-Stack GIS Monitoring System for freeCodeCamp Progress.**
 
 #### ⚡ Key Engineering Milestones:
