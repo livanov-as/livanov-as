@@ -1,6 +1,8 @@
 [![dashboard-banner](https://github.com/livanov-as/al-devstack/blob/main/frontend/src/assets/dashboard-banner.webp?raw=true)](https://al-devstack.vercel.app)
 
-👋 Hello! I transitioned into software engineering from precise geodesy, spatial data verification, and land surveying. I currently build lightweight, high-performance Full-Stack applications, focusing on FinOps container optimization and pipeline automation.
+👋 Hello! I transitioned into software engineering from precise geodesy and spatial data verification. My background taught me to value precision and data integrity. 
+
+Currently, I am focused on building my full-stack project, **al-devstack**. I really enjoy digging into backend logic, automating routines, and optimizing Docker containers.
 
 ---
 
@@ -12,7 +14,7 @@
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Tech I Use
 
 * **Frontend Domain:** JavaScript (ES6+), React 19 (Vite), Tailwind CSS v4.
 * **Backend & DB Layer:** Node.js, Express 5, Python, MongoDB Atlas.
@@ -20,13 +22,14 @@
 
 ---
 
-### 📊 Featured Project: [al-devstack](https://github.com/livanov-as/al-devstack)
-**Real-time Full-Stack GIS Monitoring System for freeCodeCamp Progress.**
+### 📊 About My Project: [al-devstack](https://github.com/livanov-as/al-devstack)
+**A real-time GIS dashboard to monitor freeCodeCamp learning progress.**
+*I built this system to scrape timeline data every week and visualize it on an interactive world map.*
 
-#### ⚡ Key Engineering Milestones:
-* **Docker Layers Refactoring:** Migrated services to lightweight multi-stage builds (-47.5% parser image size).
-* **CI/CD Pipeline Automation:** Engineered an asynchronous scraping core orchestrated via GitHub Actions.
-* **Zero-Cost Production Matrix:** Deployed the entire infrastructure ecosystem with a **$0 budget**.
+#### ⚡ What I've done here so far:
+* **Docker Optimization:** Switched to lightweight multi-stage Alpine builds. Reduced the parser image size from 2.9 GB to 1.52 GB and shrunk the frontend to 48.8 MB.
+* **Automation:** Set up an asynchronous Python + Playwright scraper running via GitHub Actions with automated backend cache invalidation.
+* **Deployment:** Got the entire setup running in the cloud using free tiers with a $0 budget.
 
 ---
 
