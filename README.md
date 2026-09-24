@@ -1,24 +1,14 @@
 # Andrey Livanov | Full-Stack Developer & Future System Architect 🚀
 
-<div align="center">
-  <img src="https://githubusercontent.com" width="100%" alt="al-devstack dashboard banner" />
-</div>
-
-<br />
+![al-devstack dashboard banner](https://githubusercontent.com)
 
 👋 Hello! I transitioned into software engineering from precise geodesy, spatial data verification, and land surveying. I currently build lightweight, high-performance Full-Stack applications, focusing on FinOps container optimization and pipeline automation.
 
-<br />
+---
 
-<div align="center">
-  <a href="https://google.com" target="_blank">
-    <img src="https://shields.io" alt="Andrey Livanov Resume EN" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1sy4vOW8ybHBYOapX6GNGblgs758bgn3H/view?usp=sharing" target="_blank">
-    <img src="https://shields.io" alt="Andrey Livanov Resume RU" />
-  </a>
-</div>
+### 📄 My Resumes / CV
+* 🇬🇧 **[Download CV in English (PDF)]([https://google.com](https://drive.google.com/file/d/1IsgIuxu0Pg4Tbi3fRXQYsbgiu87RSy-i/view?usp=drive_link))**
+* 🇷🇺 **[Скачать резюме на русском (PDF)]([https://google.com](https://drive.google.com/file/d/1sy4vOW8ybHBYOapX6GNGblgs758bgn3H/view?usp=drive_link))**
 
 ---
 
