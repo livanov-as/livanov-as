@@ -4,9 +4,11 @@
 
 ---
 
-### 📄 My Resumes / CV
-* 🇬🇧 **[Download CV in English (PDF)](https://google.com)**
-* 🇷🇺 **[Скачать резюме на русском (PDF)](https://google.com)**
+### 📄 Resumes & Tech Profiles
+* 🇬🇧 **[Download CV in English (PDF)](https://drive.google.com/file/d/1IsgIuxu0Pg4Tbi3fRXQYsbgiu87RSy-i/view?usp=drive_link)**
+* 🇷🇺 **[Скачать резюме на русском (PDF)](https://drive.google.com/file/d/1sy4vOW8ybHBYOapX6GNGblgs758bgn3H/view?usp=drive_link)**
+* 🏅 **[My freeCodeCamp Profile](https://www.freecodecamp.org/livanov-as)**
+* 💼 **[LinkedIn Profile](https://github.com)** *(In progress — link will be updated soon)*
 
 ---
 
@@ -18,7 +20,7 @@
 
 ---
 
-### 📊 Featured Project: [al-devstack](https://github.com)
+### 📊 Featured Project: [al-devstack](https://github.com/al-devstack)
 **Real-time Full-Stack GIS Monitoring System for freeCodeCamp Progress.**
 
 #### ⚡ Key Engineering Milestones:
@@ -29,6 +31,6 @@
 ---
 
 ### 🌐 Let's Connect!
-* **Email:** [livanov.code@gmail.com](mailto:livanov.code@gmail.com)
 * **Telegram:** [@livanov_as](https://t.me)
+* **Email:** [livanov.code@gmail.com](mailto:livanov.code@gmail.com)
 * **Location:** Krasnoyarsk, Russia (UTC+7)
