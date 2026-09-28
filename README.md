@@ -38,4 +38,4 @@ Currently, I am focused on building my full-stack project, **al-devstack**. I re
 ### 🌐 Let's Connect!
 * [![WhatsApp](https://shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/79237831899)
 * [![Telegram](https://shields.io/badge/Telegram-26A69A?style=flat&logo=telegram&logoColor=white)](https://t.me/livanov_as)
-* [![Signal](https://shields.io/badge/Signal-3A76F0?style=flat&logo=signal&logoColor=white)](https://signal.me/#eu/livanov_as.70)
+* [![Signal](https://shields.io/badge/Signal-3A76F0?style=flat&logo=signal&logoColor=white)](https://signal.me/#/livanov_as.70)
