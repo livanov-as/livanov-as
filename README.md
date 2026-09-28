@@ -7,10 +7,12 @@ Currently, I am focused on building my full-stack project, **al-devstack**. I re
 ---
 
 ### 📄 Resumes & Tech Profiles
+
 * 🇬🇧 **[Download CV in English (PDF)](https://drive.google.com/file/d/1IsgIuxu0Pg4Tbi3fRXQYsbgiu87RSy-i/view?usp=drive_link)**
 * 🇷🇺 **[Скачать резюме на русском (PDF)](https://drive.google.com/file/d/1sy4vOW8ybHBYOapX6GNGblgs758bgn3H/view?usp=drive_link)**
-* 🏅 **[My freeCodeCamp Profile](https://www.freecodecamp.org/livanov-as)**
-* 💼 **[LinkedIn Profile](https://github.com)** *(In progress — link will be updated soon)*
+* [![freeCodeCamp](https://shields.io)](https://freecodecamp.org) — **My Profile**
+* [![LinkedIn](https://shields.io)](https://linkedin.com) — **LinkedIn Profile**
+* [![Duolingo](https://shields.io)](https://duolingo.com)
 
 ---
 
