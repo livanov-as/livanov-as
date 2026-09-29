@@ -25,10 +25,12 @@ Currently, I am focused on building my full-stack project, **al-devstack**. I re
 ---
 
 ### 📊 About My Project: [al-devstack](https://github.com/livanov-as/al-devstack)
+
 **A real-time GIS dashboard to monitor freeCodeCamp learning progress.**
 *I built this system to scrape timeline data every week and visualize it on an interactive world map.*
 
 #### ⚡ What I've done here so far:
+
 * **Docker Optimization:** Switched to lightweight multi-stage Alpine builds. Reduced the parser image size from 2.9 GB to 1.52 GB and shrunk the frontend to 48.8 MB.
 * **Automation:** Set up an asynchronous Python + Playwright scraper running via GitHub Actions with automated backend cache invalidation.
 * **Deployment:** Got the entire setup running in the cloud using free tiers with a $0 budget.
@@ -36,6 +38,7 @@ Currently, I am focused on building my full-stack project, **al-devstack**. I re
 ---
 
 ### 🌐 Let's Connect!
+
 * [![WhatsApp](https://shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/79237831899)
 * [![Telegram](https://shields.io/badge/Telegram-26A69A?style=flat&logo=telegram&logoColor=white)](https://t.me/livanov_as)
 * [![Signal](https://shields.io/badge/Signal-3A76F0?style=flat&logo=signal&logoColor=white)](https://signal.me/#eu/50PGZWgpwU_V-u0NEeCBFYcczSdeI4N1pbQl8mzB6f_LbZjQldJDu7uvVPKfc5ku)
