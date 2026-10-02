@@ -10,8 +10,8 @@ Currently, I am focused on building my full-stack project, **al-devstack**. I re
 
 * 🇬🇧 **[Download CV in English (PDF)](https://drive.google.com/file/d/1Iuo1PfVHdU85B_Cit5Trhaj_TcUTkT6c/view?usp=sharing)**
 * 🇷🇺 **[Скачать резюме на русском (PDF)](https://drive.google.com/file/d/1tzEDTx_Qffxwv0YC9UrrdTFnLNVkwGvp/view?usp=sharing)**
-* [![freeCodeCamp](https://shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/livanov-as)
 * [![LinkedIn](https://shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livanov-as)
+* [![freeCodeCamp](https://shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/livanov-as)
 * [![Duolingo](https://shields.io/badge/Duolingo-B1_(Score:_71)-58CC02?style=flat&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/Andrei700514)
 
 ---
